@@ -10,4 +10,3 @@ module MetaDancing
     extend MetaDancing
   end
 end
-
